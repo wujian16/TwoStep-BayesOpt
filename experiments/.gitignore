@@ -1,0 +1,57 @@
+# Logs
+*.log
+
+# Swap files
+*.sw[nop]
+*~
+
+# Data files
+*.mat
+
+# OSX crap
+*.DS_Store
+
+# Python setuptools
+*.egg-info
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.pyc
+
+# IDE files
+*.idea
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# built docs files
+docs/_*
+docs/xml/*
+docs/latex/*
+docs/html/*
+docs/.doctrees/*
+docs/moe.*.rst
+docs/moe.rst
+docs/moe_examples.rst
+docs/moe_examples.*.rst
+docs/gpp_*.rst
+docs/cpp_tree.rst
+
+# built binaries
+build
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.log
+*.out
+*.out.bak
+*.synctex.gz
+*.tex.bak
+*.tex.sav
